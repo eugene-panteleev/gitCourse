@@ -7,4 +7,4 @@ This is a part of a bigger git course. Practicing commands and learning how to p
 Let's see how it works.
 Git commit practice: to make a commit without any additional comments at first.
 Git add.
-Going to MAster branch addind some more info.
+Going to Master branch adding some more info.
