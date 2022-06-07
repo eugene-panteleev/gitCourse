@@ -8,3 +8,4 @@ Let's see how it works.
 Git commit practice: to make a commit without any additional comments at first.
 Git add.
 Going to Master branch adding some more info.
+Git commit -m .gitignore
